@@ -3,4 +3,5 @@ Purpose of this repository is first to assess GitHub as a documentation tool for
 
 I intend to produce :
 1. a first page with [my learnings](https://github.com/DanielLH-sg/NO-Requirements/blob/main/Learning.md)
-2. one or several example mockup spec documents - where I'll replicate a typicall TE-MS-NO spec & see how it goes / feels.
+2. mockup spec document(s) - replicating some standard TE-MS-NO spec.
+   * [Feature #26 - Archive UI update (in ConfigSet)](https://github.com/DanielLH-sg/NO-Requirements/blob/main/Feature%20%2326%20-%20Archive%20UI%20update%20(in%20ConfigSet).md)   
