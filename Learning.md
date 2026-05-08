@@ -10,9 +10,16 @@
 | Table syntax is painful  | E.g. adding a column is heavy  |
 | MarkDown syntax is, well, not immediate  | Steep learning curve. Probably doable though.  |
 | Adding links is a pain  | Linking a GitHub issue is far easier from e.g. MS Teams or Outlook.  |
+| Copying links is a pain  | e.g. first issue in CoPilot translation from OneNot to GitHub MD are links - replaced by **bold string** |
+| CoPilot cannot translate without rewording  | Even if ordered to keep exactly the same words and sequence, CoPilot will drastically sumarize & simplify |
+| No integration of plantuml  | as a text modelling tool - Mermaid instead  |
+| I am not comfortable with Mermaid  | Output graphs are poor. See [TextToModelWithGithub.md](TextToModelWithGithub.md) |
+
+
+
 
 # Replicated specification document
-I'll attempt to replicate [Feature #26 - Archive UI update (in ConfigSet)](https://swissgrid.sharepoint.com/sites/sgteam000097-ConfigSet/_layouts/Doc.aspx?sourcedoc={89F86EB9-F76D-473D-8ED8-3981C10A6E52}&wd=target%28Features.one%7C35A97D03-4EBB-4F4B-A5C8-F21500E04120%2FFeature%20%2326%20-%20Archive%20UI%20update%20%28in%20ConfigSet%7C4C119274-737F-4BBF-8039-9764D87B6619%2F%29) in the page XXX.md
+I'll attempt to replicate [Feature #26 - Archive UI update (in ConfigSet)](https://swissgrid.sharepoint.com/sites/sgteam000097-ConfigSet/_layouts/Doc.aspx?sourcedoc={89F86EB9-F76D-473D-8ED8-3981C10A6E52}&wd=target%28Features.one%7C35A97D03-4EBB-4F4B-A5C8-F21500E04120%2FFeature%20%2326%20-%20Archive%20UI%20update%20%28in%20ConfigSet%7C4C119274-737F-4BBF-8039-9764D87B6619%2F%29) in [Feature #26 - Archive UI update (in ConfigSet)_New.md](Feature #26 - Archive UI update (in ConfigSet)_New.md)
 
 
 # Reference documentation:
