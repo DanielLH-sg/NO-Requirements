@@ -14,6 +14,7 @@
 | CoPilot cannot translate without rewording  | Even if ordered to keep exactly the same words and sequence, CoPilot will drastically sumarize & simplify |
 | No integration of plantuml  | as a text modelling tool - Mermaid instead  |
 | I am not comfortable with Mermaid  | Output graphs are poor. See [TextToModelWithGithub.md](TextToModelWithGithub.md) |
+| MD File names sensitive to chars |as example my initial OneNote file had #, (,), and spaces :-)  "Feature #26 - Archive UI update (in ConfigSet)" at least some of them are not accepted |
 
 
 
