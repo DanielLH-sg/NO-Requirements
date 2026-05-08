@@ -1,4 +1,4 @@
-# Feature #26 – Archiving UI update (in ConfigSet)
+# Feature #26 – Archiving UI update
 
 **Freitag, 5. September 2025**  
 **15:27**
