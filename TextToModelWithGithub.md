@@ -87,12 +87,12 @@ stateDiagram-v2
 
 
 Rework to make it more biutiful:
-My attempt to draw left to right have failed. I do not like it. 
+My attempt to draw left to right - with the directive "direction LR" -  has failed. I do not like it. 
 
 ```mermaid
 stateDiagram-v2
-  hide empty description
   direction LR
+  hide empty description
   state "States of a ConfigSet" as ConfigSetStates {
     [*] --> Available : Create
 
